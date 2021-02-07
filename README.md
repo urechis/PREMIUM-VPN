@@ -10,3 +10,7 @@ URECHIS VPN作為一項公共VPN服務，可幫助中國互聯網用戶和在華
 URECHIS VPN as a public VPN service helping China Internet users and foreigners in China getting rid of GFW block to browsing with freedom<br>
 Visit <a href="https://www.urechis.com" target="_blank">https://www.urechis.com</a><br>To Order A Dedicated IP VPN, Please Check out https://www.fiverr.com/share/plGDAR&nbsp; to purchase<br>
 PLEASE CLICK ADs TO SUPPORT OUR FREE PUBLIC PROJECT, THANK YOU!
+
+中国のインターネットユーザーと中国の外国人がGFWブロックを取り除き、自由にブラウジングできるようにするパブリックVPNサービスとしてのURECHIS VPN <br>
+<a href="https://www.urechis.com" target="_blank"> https://www.urechis.com </a> <br>専用IPVPNを注文するには、https：をチェックしてください。 //www.fiverr.com/share/plGDAR&nbsp; 購入する<br>
+私たちの無料の公共プロジェクトをサポートするために広告をクリックしてください、ありがとう！
